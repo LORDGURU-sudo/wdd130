@@ -1,0 +1,55 @@
+main {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    display: block;
+    background-color: #333333;
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 1px;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 0 0 30ppx gray;
+    width: 340px;
+    height: auto;
+}
+
+
+section {
+    box-sizing: border-box;
+    background-color: #dddd;
+    text-align: center;
+    margin: 0 auto;
+    width: 340px;
+    text-align: justify;
+
+    
+       
+}
+
+h2 {
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+footer {
+    display: block;
+    background-color: #333333;
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 1px;
+    color: white;
+}
