@@ -15,11 +15,13 @@ p {
     margin: 0 0 15px 15px;
     border: 1px solid rgb(0 0 0 / 30%);
     box-shadow: 0 0 30px #777;
+  
 }
 
 footer {
     border-top: 1px solid #555;
     padding-top: 5px;
+    clear: both;
     /* Uncomment the declaration below and observe the results. */
 
     /* clear: both; */
